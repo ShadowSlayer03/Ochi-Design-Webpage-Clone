@@ -27,33 +27,35 @@ To run this project locally, follow these steps:
 
 
 ```bash
-git clone https://github.com/yourusername/ochi-design-clone.git
-cd ochi-design-clone
+  git clone https://github.com/yourusername/ochi-design-clone.git
+  cd ochi-design-clone
+```
 
 2. Install dependencies:
 
 ```bash
-# If you used npm
-npm install
+  # If you used npm
+  npm install
 
-# Or if you used yarn
-yarn install
-
+  # Or if you used yarn
+  yarn install
+```
 
 3. Start the development server:
 
 ```bash
-# If you used npm
-npm run start
+  # If you used npm
+  npm run start
 
-# Or if you used yarn
-yarn start
-
+  # Or if you used yarn
+  yarn start
+```
 
 4. Check the local server:
 
+```bash
 The project should now be running on http://localhost:5173.
-
+```
 
 ## Acknowledgements
 
